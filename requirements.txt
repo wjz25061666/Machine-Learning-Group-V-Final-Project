@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+scikit-learn
+
+# Deep learning
+torch
+torchvision
+
+# Optional (needed only if you run --run_blip)
+transformers>=4.35.0
+accelerate
+sentencepiece
